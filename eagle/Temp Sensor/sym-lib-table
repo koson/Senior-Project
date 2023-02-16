@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Temp Sensor-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Temp Sensor-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Temp Sensor B-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Temp Sensor B-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Temp Sensor C-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Temp Sensor C-eagle-import.kicad_sym")(options "")(descr ""))
+)

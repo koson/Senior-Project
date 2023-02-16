@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Granny Safe all Inclusive-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Granny Safe all Inclusive-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Granny Safe Microprocessor Module-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Granny Safe Microprocessor Module-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Granny Safe Power Supply-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Granny Safe Power Supply-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Granny Safe-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Granny Safe-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Report Cut-up schematic-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Report Cut-up schematic-eagle-import.kicad_sym")(options "")(descr ""))
+)
